@@ -1,4 +1,4 @@
 # live-chat
 MongoDB / nodeJS chat application.
 
-Test live chat: Holgerco.com/chat
+Test live chat: http://holgerco.com/chat/
